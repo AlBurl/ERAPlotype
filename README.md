@@ -16,6 +16,8 @@ ERAPlotype takes input of an annotated csv file (which can be generated quickly 
 
 ERAPloype uses the definition of ERAP1 haplotypes as described in [Ombrello et al, 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4565054/).
 
+**N.B. It is not possible to distinguish between Hap1/Hap4 and Hap2/Hap6 genotypes using only short read sequencing data. In this specific scenario, both haplotype combinations are returned along with a warning message.** 
+
 ## Requirements 
 
 ERAPlotype uses [RStudio](https://www.rstudio.com/products/rstudio/) and the following R packages:
