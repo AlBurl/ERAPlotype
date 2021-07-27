@@ -27,8 +27,8 @@ ERAPlotype uses [RStudio](https://www.rstudio.com/products/rstudio/) and the fol
 ## Usage
 
 1. Create a file named 'ERAPlotype'.
-2. Download the ERAPlotype R script and install packages accordingly. 
-3. Download the ERAP1 reference dataframe.csv to ERAPlotype folder.
+2. Download the ERAPlotype R script and install packages accordingly using install.packages(). 
+3. Download the ERAP_ref_df.csv to ERAPlotype folder.
 4. If file for analysis is in VCF format, annotate the file at [wANNOVAR](http://wannovar.wglab.org). 
 5. Download the resulting exome csv file to ERAPlotype folder.
 6. Enter file name where indicated within script. 
