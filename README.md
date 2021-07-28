@@ -1,6 +1,6 @@
 # ERAPlotype
 
-**ERAPlotype determines the ERAP1 haplotype from whole exome sequencing data.**
+**ERAPlotype determines ERAP1 haplotype from human whole exome sequencing data.**
 
 ## Introduction
 
